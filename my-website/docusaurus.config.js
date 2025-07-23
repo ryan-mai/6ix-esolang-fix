@@ -94,7 +94,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://6ix-esolang.vercel.app/',
+            href: 'https://sixix-esolang-interpreter.onrender.com/',
             label: 'Playground',
             position: 'left',
           },

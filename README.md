@@ -1,4 +1,7 @@
 # 6ix Esolang Interpreter
+Hello, this is the renewed version of my [Original Repository](https://github.com/ryan-mai/6ix-esolang), so if you need to check the history, then refer to [here](https://github.com/ryan-mai/6ix-esolang)
+
+Otherwise, to read the repository and the README, please feel free to refer here.
 
 [Official Documentation](https://6ix-esolang-docs.vercel.app/)
 [Official Interpreter](https://sixix-esolang-interpreter.onrender.com/)

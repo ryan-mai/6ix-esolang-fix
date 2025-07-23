@@ -18,7 +18,6 @@ def run_code():
         data = request.get_json()
         code = data.get('code', '')
 
-        # Clear interpreter state
         variables.clear()
         functions.clear()
 

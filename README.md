@@ -1,7 +1,7 @@
 # 6ix Esolang Interpreter
 
-[Official Documentation](https://ryan-mai.github.io/6ix-esolang/)
-[Official Interpreter](https://6ix-esolang-b286n01te-ryan-mais-projects.vercel.app/)
+[Official Documentation](https://6ix-esolang-docs.vercel.app/)
+[Official Interpreter](https://sixix-esolang-interpreter.onrender.com/)
 
 
 ## Project Structure
